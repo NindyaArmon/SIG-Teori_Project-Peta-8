@@ -1,4 +1,4 @@
-Langkah Kerja:
+Langkah Kerja :
 
 1. Pergi ke USGS Earthexplorer. Di tab Kriteria Pencarian, klik Fitur Dunia. Di Feature Name masukkan Everest, di Country masukkan NEPAL, klik Show. Ini akan menampilkan tabel dengan informasi lokasi. Pilih Everest di bawah Nama Tempat.
 
